@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ACG Redesign</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- NAVIGATION DRAWER TEXT RESOURCES -->
+
+    <string name="regular_series">Regular Series</string>
+    <string name="lucky_cats_series">Lucky Cats</string>
+    <string name="big_box_edition">Big Box Edition</string>
+    <string name="google_edition">Google Edition</string>
+    <string name="special_edition">Special Edition</string>
+    <string name="artist_proof_edition">Artist Proof</string>
+    <string name="user_edition">Me</string>
+
+    <string name="series_one">Series One</string>
+    <string name="series_two">Series Two</string>
+    <string name="series_three">Series Three</string>
+    <string name="series_four">Series Four</string>
+
+    <string name="user_collection">My Collection</string>
+    <string name="user_wishlist">My Wishlist</string>
+
+    <!--BUGDROID INFO BOX-->
+    <string name="more_info">More information</string>
+    <string name="artist">Artist: </string>
+    <string name="release_date">Release date: </string>
+    <string name="description">Description: </string>
+    <string name="ratio">Ratio: </string>
+    <!-- ARTIST NAME -->
+    <string name="andrew_bell">Andrew Bell</string>
+    <string name="gary_ham">Gary Ham</string>
+    <string name="scott_tolleson">Scott Tolleson</string>
+    <string name="google_inc">Google Inc.</string>
+    <string name="kelly_denato">Kelly Denato</string>
+    <string name="jeff_yaksick">Jeff Yaksick</string>
+    <string name="doktor_a">Doktor A</string>
+    <string name="sket_one">Sket One</string>
+    <string name="mad">MAD</string>
+    <string name="kronk">Kronk</string>
+    <string name="kano">kaNO</string>
+    <string name="huck_gee">Huck Gee</string>
+
+    <!-- SERIES ONE -->
+    <string name="standard_green_description">The very first mini figure</string>
+    <string name="reactor_description">Shines in the dark</string>
+    <string name="apk_description">Tribute to the famous HAL 9000, APK is an Android file format, and 2008 refers to the date of Android’s first public debut</string>
+    <string name="copper_wash_description">Commonly known as "Rusty"</string>
+    <!-- SERIES TWO -->
+    <string name="vanilla_cupcake_description">Smells like vanilla</string>
+    <string name="chocolate_cupcake_description">Smells like chocolate</string>
+    <!-- SERIES THREE -->
+    <string name="clear_description">Inside there is a small bugdroid keyring</string>
+    <string name="cry_on_description">A small plastic rattle ball makes Cry-On sound like a real spray can. Pull head off and remove ball from bag for the full effect!</string>
+    <!-- LUCKY CATS -->
+    <string name="gold_lc_open_eye_description">Luck in business and prosperity\nAccessory: Koban Coin</string>
+    <string name="white_lc_open_eye_description">General good and luck in business\nAccessory: Koban Coin</string>
+    <string name="black_lc_open_eye_description">Luck in business and protection\nAccessory: Koban Coin</string>
+    <string name="green_lc_description">Luck in studies\nAccessory: Notebook</string>
+    <string name="yellow_lc_description">Luck in marriage\nAccessory: Red Envelope</string>
+    <string name="purple_lc_description">Luck in health and beauty\nAccessory: Collar Bell</string>
+    <string name="blue_lc_description">Luck in career\nAccessory: Notebook</string>
+    <string name="pink_lc_description">Luck in relationship\nAccessory: Collar Bell</string>
+    <string name="red_lc_description">Protection from illness\nAccessory: Collar Bell</string>
+    <string name="black_lc_description">Safety and protection from evil\nAccessory: Collar Coin</string>
+    <string name="gold_lc_description">Luck in wealth and good fortune\nAccessory: Collar Coin</string>
+    <string name="white_lc_description">General good, luck and purity\nAccessory: Collar Coin</string>
+    <!-- GOOGLE EDITIONS -->
+    <string name="analytics_one_descripton">Released for Google Analytics</string>
+    <string name="analytics_two_description">Released for Google Analytics</string>
+    <string name="developer_description">Released for Google Android Office</string>
+    <string name="schemer_description">Released for Google Schemer</string>
+    <string name="ux_researcher_description">Can be seen on Android Developer App Clinic videos</string>
+    <string name="io_tester">Released for Google IO 2013</string>
+    <string name="mobley_description">Released for Mobile World Congress 2012</string>
+    <string name="mwc_description">Released for Mobile World Congress 2012</string>
+    <string name="executive_description">Released for Google Executive Summits. The set contains two bugdroids: a man and a woman</string>
+    <string name="noogler_special_description">Same design as the Series 2 Noogler. Only the box is different</string>
+    <string name="special_bb_description">Same design as the Big Box Edition, only the writing on the box is different</string>
+    <!-- SPECIAL EDITIONS -->
+    <string name="bbq_blue_description">Released for the Big Android BBQ. Part of the Blue Set</string>
+    <string name="bbq_red_description">Released for the Big Android BBQ. Part of the Red Set</string>
+</resources>

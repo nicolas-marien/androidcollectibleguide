@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey_medium">#ff999999</color>
+    <color name="card">#FFF</color>
+
+    <!-- HOLO COLORS -->
+    <color name="holo_green">#ff99cc00</color>
+    <color name="holo_red">#CC0000</color>
+    <color name="holo_blue">#ff33b5e5</color>
+    <color name="red">#db4c4c</color>
+
+
+</resources>

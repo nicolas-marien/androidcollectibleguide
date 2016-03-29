@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/card"></solid>
+    <stroke android:width="@dimen/card_color_margin" android:color="@color/red"/>
+</shape>
